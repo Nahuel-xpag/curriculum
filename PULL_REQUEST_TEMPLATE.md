@@ -14,7 +14,7 @@ If this PR closes an open issue in another TOP repo, replace the #XXXXX with the
 
 If this PR does not close, but is related to another issue or PR, you can link it as above without the 'Closes' keyword, e.g. 'Related to #2013'.
 -->
-Closes #XXXXX
+Closes #XXXX
 
 ## Additional Information
 <!-- Any other information about this PR, such as a link to a Discord discussion. -->
